@@ -1,2 +1,3 @@
-# dncl_with_cpp
-DNCLをC++で再現してAtCoderを解きました
+# DNCLでAtCoderを解く
+
+## 参考文献
