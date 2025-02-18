@@ -1,4 +1,4 @@
-# DNCLでAtCoderを解く
+# DNCLをVScodeで実行する
 
 ### 概要
 - DNCL（共通テスト手順記述標準言語）をVScodeでも書けるようにする
